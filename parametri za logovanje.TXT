@@ -1,0 +1,13 @@
+Obični korisnici
+
+milicaaa@gmail.com
+maja@gmail.com
+Šifra za oba: veomaUser
+
+
+
+Admini
+
+petarAdmin@gmail.com
+admin@mail.com
+Šifra za oba: veomaAdmin

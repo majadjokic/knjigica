@@ -1,0 +1,3 @@
+Ako kojim slučajem imate bazu knjigica od prethodnog roka za sajt, zamenite je ovom novom.
+
+Nove promene: dodate koline, promenjena imena kolona/tabela...
